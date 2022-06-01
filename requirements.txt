@@ -1,0 +1,2 @@
+psycopg2-binary 2.9.3
+pytest 5.4.3
