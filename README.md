@@ -1,5 +1,7 @@
 # Postgresql (Docker container) + Python
 
+This is a ready made framework to begin a Python & SQL project
+
 Uses .sql and .yml to create database, table, add dummy data
 
 ---
