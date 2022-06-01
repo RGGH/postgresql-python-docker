@@ -11,7 +11,7 @@ from configparser import ConfigParser
 class dbConnection:
     
     # reading connection params
-    def __init__(self, filename='database.ini', section='postgresql'):
+    def __init__(self, filename='app/database.ini', section='postgresql'):
         self.parser = ConfigParser() 
         self.parser.read(filename)   
         self.db = {}   
