@@ -1,5 +1,4 @@
-# postgresql-python-docker
-Postgresql + Python + Docker
+# Postgresql (Docker container) + Python
 
 Uses .sql and .yml to create database, table, add dummy data
 
