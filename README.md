@@ -8,6 +8,7 @@ Uses .sql and .yml to create database, table, add dummy data
 - Clone the repo, 
 - issue "docker-compose build" 
 - run app2.py or write your own python code
+-  the data will be persistent as it uses a mounted volume
 
 ---
 
