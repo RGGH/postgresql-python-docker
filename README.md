@@ -2,7 +2,7 @@
 
 This is a ready made framework to begin a Python & SQL project
 
-Uses .sql and .yml to create database, table, add dummy data
+Uses .sql and .yml to create a database, create tables, add dummy data
 
 ---
 
