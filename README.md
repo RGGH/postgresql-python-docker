@@ -17,5 +17,6 @@ Uses .sql and .yml to create database, table, add dummy data
   pip install psycopg2-binary
   
   https://pypi.org/project/psycopg2-binary/
+  
   Psycopg 2 is mostly implemented in C as a libpq wrapper, 
   resulting in being both efficient and secure.
