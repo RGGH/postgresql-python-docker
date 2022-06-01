@@ -5,7 +5,9 @@ Uses .sql and .yml to create database, table, add dummy data
 
 ---
 
-Clone the repo, issue "docker-compose build" and run app2.py or write your own python code
+- Clone the repo, 
+- issue "docker-compose build" 
+- run app2.py or write your own python code
 
 ---
 
